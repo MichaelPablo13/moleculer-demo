@@ -35,3 +35,6 @@ In the terminal, try the following commands:
 - `npm test`: Run tests & generate coverage report
 - `npm run dc:up`: Start the stack with Docker Compose
 - `npm run dc:down`: Stop the stack with Docker Compose
+
+## Project Architecture
+![image](https://user-images.githubusercontent.com/9862172/123978317-25f3f980-d996-11eb-83a0-4f9548b05b34.png)
